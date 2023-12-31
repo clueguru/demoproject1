@@ -1,3 +1,3 @@
 this is an example of working with branch
-made the changes
+madee the changes in feature2
 
